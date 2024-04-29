@@ -1,1 +1,5 @@
+dwhjsscbc<<<<<<< HEAD
 wjkcbwjkcbwhello hello
+=======
+nbxjjkhello hello
+>>>>>>> 705ce36 (sample4 rebase from master)
